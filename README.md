@@ -34,8 +34,8 @@ Assess the model’s accuracy and effectiveness on the testing set using perform
 ```
 /*
 Program to implement Logistic Regression for classifying food choices based on nutritional information.
-Developed by: Abinaya A
-RegisterNumber:  212223040003
+Developed by: SUSINDHAR K M
+RegisterNumber:  212223040218
 */
 import pandas as pd
 from sklearn.model_selection import train_test_split
